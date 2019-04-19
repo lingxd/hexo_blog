@@ -8,4 +8,5 @@ tags:
 ### Hello World!
 
 ### 物语
-![](/images/blog/物语系列.jpg)
+
+![](/images/blog/first/物语系列.jpg)

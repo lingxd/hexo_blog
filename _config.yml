@@ -94,7 +94,7 @@ deploy:
   #repository: https://github.com/lingxd/lingxd.github.io.git
   repo: 
     github: https://github.com/lingxd/lingxd.github.io.git
-    coding: https://git.dev.tencent.com/lingxd97outlook/lingxd97outlook.git
+    coding: git@git.coding.net:lingxd97outlook.git
 
   branch: master
 
