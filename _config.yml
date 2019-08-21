@@ -91,11 +91,10 @@ theme: next     # 使用的主题，这里选用的是Next主题
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  #repository: https://github.com/lingxd/lingxd.github.io.git
+  # repository: https://github.com/lingxd/lingxd.github.io.git
   repo: 
-    github: https://github.com/lingxd/lingxd.github.io.git
-    coding: git@git.coding.net:lingxd97outlook.git
-
+    github: git@github.com:lingxd/lingxd.github.io.git
+    coding: git@git.coding.net:lingxd97outlook/lingxd97outlook.git
   branch: master
 
 search:                     # 实现搜索文章的功能
